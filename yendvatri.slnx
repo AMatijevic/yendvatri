@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/frontend/frontend.esproj">
+    <Build />
+  </Project>
+  <Project Path="src/yendvatri.AppHost/yendvatri.AppHost.csproj" />
+  <Project Path="src/yendvatri.Server/yendvatri.Server.csproj" />
+</Solution>
