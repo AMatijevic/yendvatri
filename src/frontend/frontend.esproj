@@ -4,7 +4,9 @@
     <ShouldRunBuildScript>false</ShouldRunBuildScript>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="public\" />
-    <Folder Include="src\assets\" />
+    <Folder Include="src\assets\images\" />
+    <Folder Include="src\assets\icons\" />
+    <Folder Include="src\features\dashboard\" />
+    <Folder Include="src\features\users\" />
   </ItemGroup>
 </Project>
