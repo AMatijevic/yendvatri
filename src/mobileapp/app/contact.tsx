@@ -4,6 +4,7 @@ import React from 'react'
 const explore = () => {
   return (
     <View>
+      <Text>contact</Text>
     </View>
   )
 }
